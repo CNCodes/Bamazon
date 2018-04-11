@@ -1,0 +1,2 @@
+# Bamazon
+mySQL initial hw
